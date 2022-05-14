@@ -1,0 +1,7 @@
+gherkin language
+
+Scenario
+Given - pre condition
+When - actions we ne to preform
+And - supporting tag
+Then - expected results
